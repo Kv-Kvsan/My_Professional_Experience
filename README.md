@@ -1,6 +1,7 @@
 # Keerthivasan_QA_Project_Experience
 
-Welcome to my professional QA portfolio. I have 3 years of experience in **Manual Testing** across various domains like **Insurance and Pharmaceuticals**, with exposure to **Agile and Waterfall Methodologies.** This repository showcases my contributions to real-world projects while maintaining confidentiality.
+Welcome to my professional QA portfolio.
+This is Keerthivasan. I have 3 years of experience in **Manual Testing** across various domains like **Insurance and Pharmaceuticals**, with exposure to **Agile and Waterfall Methodologies.** This repository showcases my contributions to real-world projects while maintaining confidentiality.
 
 **Professional Experience 1**:
 **Company**: Cognizant Technology Solutions India Pvt Ltd
